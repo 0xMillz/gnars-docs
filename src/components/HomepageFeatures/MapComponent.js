@@ -16,6 +16,20 @@ const MapComponent = () => {
         { position: [-20.24901180535837, -42.029355475124554], label: 'Manhuaçu', imageUrl: "/manhuacurail.png" },
         { position: [42.737274371776024, 140.9109422458354], label: 'Rusutsu Resort', imageUrl: "/rutsujpg.jpg" },
         { position: [33.71824554962641, -117.84727040288683], label: 'OC Ramp', imageUrl: "" },
+        { position: [40.7128, -74.0060], label: 'New York City', imageUrl: "" },
+        { position: [34.0522, -118.2437], label: 'Los Angeles', imageUrl: "" },
+        { position: [35.6895, 139.6917], label: 'Tokyo', imageUrl: "" },
+        { position: [33.8688, 151.2093], label: 'Sydney', imageUrl: "" },
+        { position: [41.3851, 2.1734], label: 'Barcelona', imageUrl: "" },
+        { position: [52.5200, 13.4050], label: 'Berlin', imageUrl: "" },
+        { position: [35.6762, 139.6503], label: 'Seoul', imageUrl: "" },
+        { position: [39.7392, -104.9903], label: 'Denver', imageUrl: "" },
+        { position: [55.7558, 37.6173], label: 'Moscow', imageUrl: "" },
+        { position: [51.5074, -0.1278], label: 'London', imageUrl: "" },
+        { position: [19.4326, -99.1332], label: 'Mexico City', imageUrl: "" },
+        { position: [13.7563, 100.5018], label: 'Bangkok', imageUrl: "" },
+        { position: [22.3964, 114.1095], label: 'Hong Kong', imageUrl: "" },
+        { position: [41.0082, 28.9784], label: 'Istanbul', imageUrl: "" }
     ];
 
     return MapContainer ? (
